@@ -1,0 +1,4 @@
+#Sat Jun 08 12:02:23 BRT 2019
+base.0=C\:\\dev\\cadastro\\app\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
